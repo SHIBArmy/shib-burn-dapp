@@ -23,7 +23,7 @@ const BurnForm = (dispatch,web3,amount) => {
             </BurnerFormRow>
             
             <BurnerFormRow>
-            <Button onClick={ (e) => { transaction(dispatch,web3,amount)  }} variant="outline-warning">Connect</Button>
+            <Button onClick={ (e) => { transaction(dispatch,web3,amount)  }} variant="outline-warning">BURN</Button>
             </BurnerFormRow>
         </BurnerFormWrapper>
     )

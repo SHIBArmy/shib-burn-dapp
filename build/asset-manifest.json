@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./*/static/css/main.045d69a1.chunk.css",
-    "main.js": "./*/static/js/main.cb030ad4.chunk.js",
-    "main.js.map": "./*/static/js/main.cb030ad4.chunk.js.map",
-    "runtime-main.js": "./*/static/js/runtime-main.05da2779.js",
-    "runtime-main.js.map": "./*/static/js/runtime-main.05da2779.js.map",
-    "static/css/2.61b4cb56.chunk.css": "./*/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.9e1a9cee.chunk.js": "./*/static/js/2.9e1a9cee.chunk.js",
-    "static/js/2.9e1a9cee.chunk.js.map": "./*/static/js/2.9e1a9cee.chunk.js.map",
-    "static/js/3.c775a669.chunk.js": "./*/static/js/3.c775a669.chunk.js",
-    "static/js/3.c775a669.chunk.js.map": "./*/static/js/3.c775a669.chunk.js.map",
-    "index.html": "./*/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "./*/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.045d69a1.chunk.css.map": "./*/static/css/main.045d69a1.chunk.css.map",
-    "static/js/2.9e1a9cee.chunk.js.LICENSE.txt": "./*/static/js/2.9e1a9cee.chunk.js.LICENSE.txt"
+    "main.css": "/shib-burn-dapp/static/css/main.045d69a1.chunk.css",
+    "main.js": "/shib-burn-dapp/static/js/main.cb030ad4.chunk.js",
+    "main.js.map": "/shib-burn-dapp/static/js/main.cb030ad4.chunk.js.map",
+    "runtime-main.js": "/shib-burn-dapp/static/js/runtime-main.4270a923.js",
+    "runtime-main.js.map": "/shib-burn-dapp/static/js/runtime-main.4270a923.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/shib-burn-dapp/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.7367471f.chunk.js": "/shib-burn-dapp/static/js/2.7367471f.chunk.js",
+    "static/js/2.7367471f.chunk.js.map": "/shib-burn-dapp/static/js/2.7367471f.chunk.js.map",
+    "static/js/3.c775a669.chunk.js": "/shib-burn-dapp/static/js/3.c775a669.chunk.js",
+    "static/js/3.c775a669.chunk.js.map": "/shib-burn-dapp/static/js/3.c775a669.chunk.js.map",
+    "index.html": "/shib-burn-dapp/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/shib-burn-dapp/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.045d69a1.chunk.css.map": "/shib-burn-dapp/static/css/main.045d69a1.chunk.css.map",
+    "static/js/2.7367471f.chunk.js.LICENSE.txt": "/shib-burn-dapp/static/js/2.7367471f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05da2779.js",
+    "static/js/runtime-main.4270a923.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.9e1a9cee.chunk.js",
+    "static/js/2.7367471f.chunk.js",
     "static/css/main.045d69a1.chunk.css",
     "static/js/main.cb030ad4.chunk.js"
   ]

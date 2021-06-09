@@ -4,7 +4,7 @@
   "license": "MIT",
   "private": true,
   "author": "Ian Decentralize",
-  "homepage":"./*",
+  "homepage":"https://shibarmy.github.io/shib-burn-dapp/",
   "dependencies": {
     "@gnosis.pm/safe-apps-react-sdk": "^3.0.0",
     "@gnosis.pm/safe-apps-sdk": "^3.0.0",

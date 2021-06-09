@@ -98,7 +98,7 @@ const BurnerFormWrapper = styled.div`
 
 
 const BurnerFormRow = styled.div`
-
+  
   position:relative;
   margin:auto;
   height: 50px;
@@ -110,10 +110,11 @@ const BurnerFormRow = styled.div`
 
 
 const StyledInput = styled.input`
-
+font-weight:600;
 border-radius: 10px;
 height:40px;
 margin-bottom:10px;
+
 `;
 
 const BurnerParagraph = styled.p`

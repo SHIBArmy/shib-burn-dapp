@@ -19,3 +19,10 @@ export function amountChanged(amount) {
         amount
     }
 }
+
+export function warning(data) {
+    return{
+        type: 'WARNING_LOADED',
+        data
+    }
+}

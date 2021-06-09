@@ -61,10 +61,17 @@ export const loadEthereum = async (dispatch) => {
 
 export const transaction = async (dispatch, web3, amount) => {
 
-const formatedAmount = Web3.utils.toWei(amount.toString())
 
-let result = await SHIB_TOKEN.methods.burn(amount).send({from : ACCOUNT, gasLimit:500000})
+if(amount <= 0){
+   
+}else
+{
+  const formatedAmount = Web3.utils.toWei(amount.toString())
 
-console.log(result)
+  let result = await SHIB_TOKEN.methods.burn(formatedAmount).send({ from: ACCOUNT, gasLimit: 500000 })
+
+  console.log(result)
+}
+
 
 }

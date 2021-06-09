@@ -12,3 +12,9 @@ export const accountSelector = createSelector(account, a => a)
 
 const amount = state => get(state, 'tx.amount', [])
 export const amountSelector = createSelector(amount, a => a)
+
+
+const warning = state => get(state, 'warning', false)
+export const warningSelector = createSelector(warning, w => w)
+const warningData = state => get(state, 'warning.data', false)
+export const warningDataSelector = createSelector(warningData, wd => wd)

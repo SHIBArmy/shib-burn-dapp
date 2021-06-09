@@ -23,12 +23,23 @@ function tx(state = {}, action) {
 
 }
 
+function warning(state = {}, action) {
+    switch(action.type){
+        case 'LOAD_WARNING':
+        return { ...state, loaded:true, data: action.data}
+        default:
+            return state
+    }
+
+}
+
 
 
 
 const rootReducer = combineReducers({
     web3,
-    tx
+    tx,
+    warning
   })
   
   

@@ -72,7 +72,7 @@ const BurnerWrapper = styled.div`
   align-items: top;
   justify-content: center;
   color:#ffffff;
-  background-image:url('/assets/burn-shiba.jpg');
+  background-image:url('https://shibarmy.github.io/shib-burn-dapp/assets/burn-shiba.jpg');
   background-repeat: no-repeat;
   background-size: contain;
 `;
